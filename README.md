@@ -8,5 +8,7 @@ Link to the JQuery codes for the scroll animation : https://github.com/jlmakes/s
 
 Link to the JQuery codes for the smooth scroll : https://github.com/cferdinandi/smooth-scroll
 
+Take a look at the website: https://hallowdread.github.io/agency-website/
+
 You can clone the website or just download the zipped folder...
 
